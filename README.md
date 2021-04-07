@@ -95,6 +95,12 @@ https://django-admin-generator.readthedocs.io/en/latest/usage.html#usage
 
 https://undraw.co/
 
+## Django sessions management
+
+https://pypi.org/project/django-user-sessions/
+
+https://django-user-sessions.readthedocs.io/en/stable/installation.html
+
 ## Date picker
 http://www.daterangepicker.com/
 
