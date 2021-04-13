@@ -95,6 +95,10 @@ https://django-admin-generator.readthedocs.io/en/latest/usage.html#usage
 
 https://undraw.co/
 
+## Django import export for import xls csv etc...
+
+https://django-import-export.readthedocs.io/en/latest/
+
 ## Django sessions management
 
 https://pypi.org/project/django-user-sessions/
